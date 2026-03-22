@@ -1,6 +1,6 @@
-@import "tailwindcss";
-
-@plugin "@tailwindcss/typography";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 /* 赛博朋克主题配色 - 赛博黄 + 黑 */
 :root {
